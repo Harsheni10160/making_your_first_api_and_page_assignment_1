@@ -7,8 +7,8 @@ The **Virtual Assistant API** is designed to provide users with personalized res
 
 ## **API Details**
 
-### **Endpoint**
-**GET** `/assistant/greet?name=<user_name>`
+### **Endpoint**/
+**GET** `assistant/greet?name=<user_name>`
 
 ### **Request Parameters**
 - **name (required)**: The user's name, sent as a query parameter.
